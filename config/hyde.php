@@ -38,7 +38,7 @@ return [
     |
     */
 
-    'name' => env('SITE_NAME', 'HydePHP'),
+    'name' => env('SITE_NAME', 'akpweb'),
 
     /*
     |--------------------------------------------------------------------------
@@ -65,7 +65,7 @@ return [
     |
     */
 
-    'language' => 'en',
+    'language' => 'fr',
 
     /*
     |--------------------------------------------------------------------------
@@ -80,7 +80,7 @@ return [
     |
     */
 
-    'pretty_urls' => false,
+    'pretty_urls' => true,
 
     /*
     |--------------------------------------------------------------------------
@@ -143,7 +143,7 @@ return [
     |
     */
 
-    'output_directory' => '_site',
+    'output_directory' => 'docs',
 
     /*
     |--------------------------------------------------------------------------
@@ -269,9 +269,9 @@ return [
 
     'authors' => [
         Author::create(
-            'mr_hyde', // Required username
-            'Mr. Hyde', // Optional display name
-            'https://hydephp.com' // Optional website URL
+            'Akipe', // Required username
+            'Julien Milletre', // Optional display name
+            'https://akipe.fr' // Optional website URL
         ),
     ],
 
