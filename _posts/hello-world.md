@@ -7,3 +7,7 @@ date: '2024-02-07 19:12'
 ---
 
 ## Write something awesome.
+
+Bonjour tout le monde ! Merci de m'accueillir dans ce merveilleux monde appelé Internet.
+
+À bientôt ;)
